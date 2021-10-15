@@ -3,7 +3,6 @@ title: Feature descriptors
 keywords: (insert comma-separated keywords here)
 order: 6 # Lecture number for 2020
 ---
-```
 \documentclass{article}
 
 \usepackage[margin=1.2in]{geometry}
@@ -180,4 +179,3 @@ SIFT: normalized to dominant gradient and used for key point detection.
 
 
 \end{document}
-```
